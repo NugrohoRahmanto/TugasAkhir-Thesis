@@ -2,3 +2,8 @@
 /data_ready
 /data_ready_v2
 /data_ready_nonsegment
+/data_ready_segmentation_beats
+/data_ready_segmentation_beats_v2
+/excel_output
+/image
+/modelResult
